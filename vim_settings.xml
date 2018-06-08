@@ -198,6 +198,11 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/account_helper.php" timestamp="1528479262899">
+        <mark key="[" line="26" column="73" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/aws-cognito-smartshyp/src/environments/environment.ts" timestamp="1513026686728">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="13" />
@@ -449,12 +454,6 @@
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/label_helper.php" timestamp="1528476179863">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="93" column="5" />
       </file>
       <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/Datefactory.php" timestamp="1520461519126">
         <mark key="[" line="12" column="35" />
@@ -1009,11 +1008,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/routes.php" timestamp="1522791269959">
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="63" column="56" />
-        <mark key="^" line="63" column="56" />
-        <mark key="." line="63" column="56" />
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/routes.php" timestamp="1528479109267">
+        <mark key="[" line="67" column="58" />
+        <mark key="]" line="67" column="56" />
+        <mark key="^" line="67" column="56" />
+        <mark key="." line="67" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528304166771">
         <mark key="[" line="0" column="0" />
@@ -1049,11 +1048,6 @@
         <mark key="]" line="8" column="8" />
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/account/print-settings.js" timestamp="1528469282206">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/158f0dad-5cd2-4ff5-8f68-843b84cb1595/console_1.sql" timestamp="1518725828958">
         <mark key="[" line="6" column="7" />
@@ -1139,11 +1133,11 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Landingpage.php" timestamp="1524845142573">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="59" column="22" />
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Landingpage.php" timestamp="1528479224033">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/smartshyp.v2/application/models/affiliates/Lemonstand.php" timestamp="1519929169779">
         <mark key="[" line="50" column="57" />
@@ -1194,9 +1188,9 @@
         <mark key="." line="6" column="123" />
       </file>
       <file name="$USER_HOME$/projects/smartshyp.v2/application/views/account/index.php" timestamp="1528409034592">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1528476029186">
         <mark key="[" line="0" column="0" />
@@ -1381,7 +1375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQloZWFkZXIoIkxvY2F0aW9uOiAvbG9naW4iKTsK</text>
+        <text encoding="base64">CSAgICAkc2VuZF9lbWFpbCA9ICRjaS0+aW5wdXQtPnBvc3QoIm5vZW1haWwiLCB0cnVlKSAhPSAxOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CWs=</text>
@@ -1393,28 +1387,28 @@
         <text encoding="base64">CQloZWFkZXIoIkxvY2F0aW9uOiAvbG9naW4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwcmludCgidGhpcyBpcyBjcmF6eSBzcGVhayIpCg==</text>
+        <text encoding="base64">CSAgICAkc2VuZF9lbWFpbCA9ICRjaS0+aW5wdXQtPnBvc3QoIm5vZW1haWwiLCB0cnVlKSAhPSAxOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwcmludCgidGhpcyBpcyBub3QgZ29pbmcgdG8gd29yayIpOwo=</text>
+        <text encoding="base64">CQlwcmludCgidGhpcyBpcyBjcmF6eSBzcGVhayIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSRwZGYtPk91dHB1dCgpOwo=</text>
+        <text encoding="base64">CQlwcmludCgidGhpcyBpcyBub3QgZ29pbmcgdG8gd29yayIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50KCIiKQo=</text>
+        <text encoding="base64">CSRwZGYtPk91dHB1dCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50KCIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoInRoaXMgaXMgZ29pbmcgIik7Cg==</text>
+        <text encoding="base64">Y29uc29sZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">cHJpbnQoInRoaXMgaXMgZ29pbmcgIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>book_failed</text>
