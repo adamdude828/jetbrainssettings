@@ -450,11 +450,11 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/label_helper.php" timestamp="1528473986440">
-        <mark key="[" line="487" column="23" />
-        <mark key="]" line="489" column="16" />
-        <mark key="." line="489" column="16" />
-        <mark key="^" line="489" column="16" />
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/label_helper.php" timestamp="1528476179863">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="5" />
       </file>
       <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/Datefactory.php" timestamp="1520461519126">
         <mark key="[" line="12" column="35" />
@@ -514,6 +514,10 @@
         <mark key="]" line="88" column="24" />
         <mark key="." line="88" column="24" />
         <mark key="^" line="88" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Logout.php" timestamp="1528477981621">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/projects/smartshyp.v2/thing.php" timestamp="1517350109876">
         <mark key="[" line="6" column="24" />
@@ -1194,7 +1198,7 @@
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1528472459369">
+      <file name="/PHP Console" timestamp="1528476029186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1376,17 +1380,17 @@
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQloZWFkZXIoIkxvY2F0aW9uOiAvbG9naW4iKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">CWs=</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQlpZiAocGFja2xpc3Rfc3R5bGU9PSJhbHRlcm5hdGUiKSB7CgkJCQkJCQkJCXNlbGVjdGVkID0gImxhYmVsLTR4Ni1wcyI7CgkJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQkJc2VsZWN0ZWQgPSAibGFiZWwtNHg2IjsKCQkJCQkJCQl9Cg==</text>
+        <text encoding="base64">CQloZWFkZXIoIkxvY2F0aW9uOiAvbG9naW4iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlwcmludCgidGhpcyBpcyBjcmF6eSBzcGVhayIpCg==</text>
