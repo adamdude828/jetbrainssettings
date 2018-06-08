@@ -1,0 +1,8 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="4.2.1" last-modified="1444756414000" />
+    </local-interpreter>
+  </component>
+</application>

@@ -1,0 +1,1497 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/a.dummy" timestamp="1524842436022">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/modules/userEditor.js" timestamp="1525894090018">
+        <mark key="[" line="92" column="77" />
+        <mark key="]" line="174" column="50" />
+        <mark key="." line="174" column="50" />
+        <mark key="^" line="174" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" timestamp="1521150530701">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/158f0dad-5cd2-4ff5-8f68-843b84cb1595/console_2.sql" timestamp="1520532018769">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ups/RatingPACKAGE/PACKAGEWebServices/CodeSamples/Rate/PHP/SoapRateClient.php" timestamp="1525902378069">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="28" />
+        <mark key="." line="64" column="28" />
+        <mark key="^" line="64" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_74.json" timestamp="1528393462179">
+        <mark key="[" line="0" column="180" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/db/Database.ts" timestamp="1516299347497">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="26" />
+        <mark key="^" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/minion/.env" timestamp="1523988901606">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Invoiceitem.php" timestamp="1518545448107">
+        <mark key="[" line="184" column="58" />
+        <mark key="]" line="184" column="59" />
+        <mark key="." line="184" column="59" />
+        <mark key="^" line="184" column="77" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/shipmentFix.php" timestamp="1517512222200">
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="178" column="145" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/packages/handler.js" timestamp="1515708768642">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/referrals/Pit.php" timestamp="1518457019968">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1515012890905">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="131" />
+        <mark key="^" line="0" column="131" />
+        <mark key="." line="0" column="131" />
+      </file>
+      <file name="$USER_HOME$/projects/swagger-ui/docker-compose.yml" timestamp="1515436590287">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/app/Aws/Factory.php" timestamp="1524020107011">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="49" column="27" />
+        <mark key="^" line="49" column="27" />
+        <mark key="." line="49" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/src/smartshyp.php" timestamp="1513711132015">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="56" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="29" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/shutdown.php" timestamp="1524155961491">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Helper/Shipment.php" timestamp="1524513553734">
+        <mark key="[" line="49" column="45" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/templates/label_created.php" timestamp="1524150335338">
+        <mark key="[" line="555" column="38" />
+        <mark key="]" line="555" column="37" />
+        <mark key="." line="555" column="37" />
+        <mark key="^" line="555" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/shipments-voided.js" timestamp="1520620039629">
+        <mark key="[" line="6" column="112" />
+        <mark key="]" line="6" column="123" />
+        <mark key="^" line="6" column="123" />
+        <mark key="." line="6" column="123" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/app/Console/Kernel.php" timestamp="1524002136692">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Billing.php" timestamp="1527273404994">
+        <mark key="[" line="154" column="61" />
+        <mark key="]" line="154" column="61" />
+        <mark key="." line="154" column="61" />
+        <mark key="^" line="154" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/system/libraries/SSPusher.php" timestamp="1522369513546">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/composer.json" timestamp="1523989189598">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/webpack.config.js" timestamp="1513289158395">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/global-search.js" timestamp="1518037824342">
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="68" column="40" />
+        <mark key="." line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Level.php" timestamp="1525442238112">
+        <mark key="[" line="140" column="67" />
+        <mark key="]" line="140" column="67" />
+        <mark key="." line="140" column="67" />
+        <mark key="^" line="140" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/shipments-delivered.js" timestamp="1520619984704">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="70" />
+        <mark key="^" line="6" column="70" />
+        <mark key="." line="6" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/tsconfig.json" timestamp="1515537253172">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Helper/PropertyHelper.php" timestamp="1525811723237">
+        <mark key="[" line="97" column="34" />
+        <mark key="]" line="97" column="34" />
+        <mark key="^" line="102" column="26" />
+        <mark key="." line="97" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Helper/Affiliate.php" timestamp="1524174919667">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/uploads/banned_domains.json" timestamp="1513123480413">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/reports/transaction_ledger.php" timestamp="1521208498670">
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/aws-cognito-smartshyp/src/environments/environment.ts" timestamp="1513026686728">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/swagger-ui/dist/index.html" timestamp="1515445510803">
+        <mark key="[" line="76" column="32" />
+        <mark key="]" line="76" column="53" />
+        <mark key="." line="76" column="53" />
+        <mark key="^" line="76" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Affiliatestore.php" timestamp="1522863882227">
+        <mark key="[" line="121" column="4" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/app/Console/Commands/AttachFormationTemplate.php" timestamp="1524004329327">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="50" column="3" />
+        <mark key="." line="50" column="3" />
+        <mark key="^" line="50" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Shipmentorder.php" timestamp="1517955651242">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="57" />
+        <mark key="^" line="43" column="57" />
+        <mark key="." line="43" column="57" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee22cc86-ea1f-4f35-a6a2-897a2d7ea306/console_3.sql" timestamp="1516053695184">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/reference.d.ts" timestamp="1516292140608">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/promotion_helper.php" timestamp="1528382330553">
+        <mark key="'" line="89" column="29" />
+        <mark key="[" line="120" column="6" />
+        <mark key="]" line="120" column="6" />
+        <mark key="^" line="89" column="9" />
+        <mark key="." line="120" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/.env" timestamp="1525704476692">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/CreatesApplication.php" timestamp="1524070697387">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/serverless.yml" timestamp="1516298700768">
+        <mark key="[" line="136" column="17" />
+        <mark key="]" line="136" column="23" />
+        <mark key="^" line="136" column="23" />
+        <mark key="." line="136" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/jsonInput.php" timestamp="1519834008207">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="71" />
+        <mark key="." line="16" column="71" />
+        <mark key="^" line="16" column="71" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/44073786-b59c-4e01-8530-c6e156ed4b19/console.sql" timestamp="1526935907774">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Client.php" timestamp="1525703985599">
+        <mark key="[" line="39" column="56" />
+        <mark key="]" line="39" column="57" />
+        <mark key="^" line="39" column="57" />
+        <mark key="." line="39" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/composer.json" timestamp="1523300714900">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45.json" timestamp="1523034972464">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7411" column="0" />
+        <mark key="." line="7411" column="0" />
+        <mark key="^" line="7411" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/_less/bootstrap/dropdowns.less" timestamp="1516142660169">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="14" />
+        <mark key="^" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/database/migrations/2018_04_17_182436_formation_template.php" timestamp="1523989601241">
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="43" />
+        <mark key="^" line="33" column="43" />
+        <mark key="." line="33" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/webpacktest/app.js" timestamp="1513284924517">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/test_worker.php" timestamp="1520447248147">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/affiliates/Etsy.php" timestamp="1525293855927">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/c9christopa/appenv.php" timestamp="1526335256878">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/data-access/serverless.yml" timestamp="1513788989974">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/swagger-ui/dist/swagger-smartshyp.json" timestamp="1515600708801">
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="82" column="96" />
+        <mark key="." line="82" column="96" />
+        <mark key="^" line="82" column="96" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/shipments-readytoship.js" timestamp="1519946583021">
+        <mark key="[" line="6" column="80" />
+        <mark key="]" line="6" column="92" />
+        <mark key="^" line="6" column="92" />
+        <mark key="." line="6" column="92" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b591e7c4-a479-4ae2-aec6-90819f259f16/console_2.sql" timestamp="1526319567710">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/shipment_batch_helper.php" timestamp="1516221651122">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/Importshutdown.php" timestamp="1527613844696">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="44" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/68c1454d-1518-4f1d-8b4b-4f332f31405c/console.sql" timestamp="1528384740715">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="25" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="49" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3fa72607-093e-41a0-9e86-fe69325ca455/console.sql" timestamp="1528386187978">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/aws-cognito-smartshyp/src/app/cognito.service.ts" timestamp="1513031376404">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/views/labels/view.php" timestamp="1522444529240">
+        <mark key="[" line="7" column="106" />
+        <mark key="]" line="7" column="107" />
+        <mark key="^" line="7" column="106" />
+        <mark key="." line="7" column="107" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.json" timestamp="1518115486382">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/docker-compose.yml" timestamp="1515001232872">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Promotionusage.php" timestamp="1518709272507">
+        <mark key="[" line="80" column="43" />
+        <mark key="]" line="80" column="43" />
+        <mark key="^" line="80" column="42" />
+        <mark key="." line="80" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Usersubscription.php" timestamp="1526992578598">
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="39" />
+        <mark key="^" line="71" column="39" />
+        <mark key="." line="71" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/aws-cognito-smartshyp/src/app/app.component.ts" timestamp="1513023830514">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/views/landingpage/payment.php" timestamp="1524763638173">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/handler/userPreference.ts" timestamp="1516307455043">
+        <mark key="[" line="113" column="44" />
+        <mark key="]" line="113" column="44" />
+        <mark key="." line="113" column="44" />
+        <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_65.json" timestamp="1526407821009">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/helper/Acl.ts" timestamp="1516298457674">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="9" column="71" />
+        <mark key="." line="9" column="71" />
+        <mark key="^" line="9" column="71" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b591e7c4-a479-4ae2-aec6-90819f259f16/console.sql" timestamp="1528392425218">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/label_helper.php" timestamp="1528473986440">
+        <mark key="[" line="487" column="23" />
+        <mark key="]" line="489" column="16" />
+        <mark key="." line="489" column="16" />
+        <mark key="^" line="489" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/Datefactory.php" timestamp="1520461519126">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/views/landingpage/pitneybowes.php" timestamp="1518795750826">
+        <mark key="[" line="19" column="83" />
+        <mark key="]" line="19" column="90" />
+        <mark key="." line="19" column="90" />
+        <mark key="^" line="19" column="90" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/account/preferences.js" timestamp="1528407601553">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/.gitignore" timestamp="1513115943037">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/src/tracking_updater.php" timestamp="1525370124477">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/lonniedev/carriers/pitney.php" timestamp="1518714517162">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/finance_helper.php" timestamp="1528383758366">
+        <mark key="[" line="754" column="7" />
+        <mark key="]" line="755" column="60" />
+        <mark key="." line="755" column="60" />
+        <mark key="^" line="755" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/.gitignore" timestamp="1513784364544">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Globalsearch.php" timestamp="1515003757039">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="66" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Labels.php" timestamp="1528472068781">
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="88" column="24" />
+        <mark key="." line="88" column="24" />
+        <mark key="^" line="88" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/thing.php" timestamp="1517350109876">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/Leo.php" timestamp="1526395709413">
+        <mark key="[" line="89" column="36" />
+        <mark key="]" line="89" column="40" />
+        <mark key="." line="89" column="40" />
+        <mark key="^" line="89" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/ImportShutdown.php" timestamp="1524157275464">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/subscription_helper.php" timestamp="1528386496644">
+        <mark key="[" line="151" column="8" />
+        <mark key="]" line="151" column="13" />
+        <mark key="^" line="151" column="13" />
+        <mark key="." line="151" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/helper/Set.ts" timestamp="1515522760562">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/aws-cognito-smartshyp/src/app/app.module.ts" timestamp="1513023006380">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/ratetables/Uspsratetable.php" timestamp="1525886062179">
+        <mark key="[" line="110" column="38" />
+        <mark key="]" line="110" column="67" />
+        <mark key="." line="110" column="67" />
+        <mark key="^" line="110" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/app/Models/User.php" timestamp="1524172195260">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3fa72607-093e-41a0-9e86-fe69325ca455/console_1.sql" timestamp="1527619152212">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527862803746">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/user_helper.php" timestamp="1525194396031">
+        <mark key="[" line="492" column="8" />
+        <mark key="]" line="492" column="3" />
+        <mark key="." line="492" column="3" />
+        <mark key="^" line="492" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/smartshyp.ts" timestamp="1513185752440">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Transactiontype.php" timestamp="1520444733845">
+        <mark key="[" line="129" column="44" />
+        <mark key="]" line="129" column="44" />
+        <mark key="." line="129" column="44" />
+        <mark key="^" line="129" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/_less/split.less" timestamp="1518575489804">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Addressbook.php" timestamp="1527626198066">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Affiliatestoreitems.php" timestamp="1527782786798">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/account/carrier-accounts.js" timestamp="1524085245335">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="40" />
+        <mark key="^" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/shipments.json" timestamp="1516143945808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="56726" />
+        <mark key="^" line="0" column="56726" />
+        <mark key="." line="0" column="56726" />
+      </file>
+      <file name="$USER_HOME$/projects/devdocker/smartshyp/docker-compose.yml" timestamp="1517245318737">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/src/import_all.php" timestamp="1521499452930">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Pitney.php" timestamp="1524842430278">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/environment/dev.json" timestamp="1513806142353">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/packages/smartshyp-core/handler.ts" timestamp="1513790410490">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/development/appenv.php" timestamp="1526335277432">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/product_helper.php" timestamp="1520544989185">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/booktest/appenv.php" timestamp="1525894839500">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="50" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/types.d.ts" timestamp="1513179988871">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Transaction.php" timestamp="1521490821281">
+        <mark key="[" line="603" column="53" />
+        <mark key="]" line="603" column="53" />
+        <mark key="." line="603" column="53" />
+        <mark key="^" line="603" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Feature/Shipping/ListTest.php" timestamp="1524176544350">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/testing/appenv.php" timestamp="1527624439595">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/views/account/signup.php" timestamp="1518796609590">
+        <mark key="[" line="22" column="78" />
+        <mark key="]" line="22" column="85" />
+        <mark key="." line="22" column="85" />
+        <mark key="^" line="22" column="85" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/lonniedev/appenv.php" timestamp="1526335330758">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/3pl.php" timestamp="1514919361268">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/views/layouts/aside_shipping.php" timestamp="1517245969747">
+        <mark key="[" line="315" column="17" />
+        <mark key="]" line="315" column="17" />
+        <mark key="." line="315" column="17" />
+        <mark key="^" line="315" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/invoice_helper.php" timestamp="1522941488883">
+        <mark key="[" line="612" column="42" />
+        <mark key="]" line="612" column="41" />
+        <mark key="." line="612" column="41" />
+        <mark key="^" line="612" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/css/migrated/affiliates.css" timestamp="1527871545987">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/users/handler.ts" timestamp="1516292173167">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="14" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/shipments-readytoprint.js" timestamp="1519945193332">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_73.json" timestamp="1528321806905">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/aws-cognito-smartshyp/docker-compose.yml" timestamp="1513014689788">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/helper/Response.ts" timestamp="1516295191051">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="41" column="80" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/booking_helper.php" timestamp="1528404769697">
+        <mark key="[" line="483" column="63" />
+        <mark key="]" line="483" column="63" />
+        <mark key="." line="483" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Feature/Affiliate/AddRemoveTest.php" timestamp="1524174942165">
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/new_user/server.js" timestamp="1524596070340">
+        <mark key="[" line="76" column="76" />
+        <mark key="]" line="68" column="90" />
+        <mark key="^" line="68" column="90" />
+        <mark key="." line="68" column="90" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Feature/Shipping/CreateTest.php" timestamp="1525990819171">
+        <mark key="[" line="61" column="61" />
+        <mark key="]" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+        <mark key="^" line="67" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/app/Console/Commands/AwsInspect.php" timestamp="1523990627845">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="42" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/carriers/Ups.php" timestamp="1528379617589">
+        <mark key="[" line="802" column="46" />
+        <mark key="]" line="802" column="54" />
+        <mark key="." line="802" column="54" />
+        <mark key="^" line="802" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/adamdev/carriers/ups.php" timestamp="1525817750325">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Shipping.php" timestamp="1526660113285">
+        <mark key="[" line="668" column="27" />
+        <mark key="]" line="668" column="32" />
+        <mark key="." line="668" column="32" />
+        <mark key="^" line="668" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/Set.php" timestamp="1522175151888">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Audit.php" timestamp="1526422097907">
+        <mark key="[" line="312" column="24" />
+        <mark key="]" line="312" column="37" />
+        <mark key="." line="312" column="37" />
+        <mark key="^" line="312" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.json" timestamp="1523032264249">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1170" />
+        <mark key="^" line="0" column="1170" />
+        <mark key="." line="0" column="1170" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/HttpResponse.php" timestamp="1524498382879">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="52" />
+        <mark key="^" line="19" column="52" />
+        <mark key="." line="19" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Shipmentbatch.php" timestamp="1516473656491">
+        <mark key="[" line="285" column="24" />
+        <mark key="]" line="285" column="24" />
+        <mark key="." line="285" column="24" />
+        <mark key="^" line="269" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/smartshyp/Groupedcarriertransaction.php" timestamp="1512765821843">
+        <mark key="[" line="32" column="55" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.json" timestamp="1528317228654">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.json" timestamp="1521759698996">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/src/bill_paid_users.php" timestamp="1525207690534">
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/views/layouts/aside_affiliateproducts.php" timestamp="1520891715490">
+        <mark key="[" line="268" column="103" />
+        <mark key="]" line="268" column="104" />
+        <mark key="^" line="268" column="107" />
+        <mark key="." line="268" column="104" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Subscriptions.php" timestamp="1528383837344">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/states_helper.php" timestamp="1525115538743">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Feature/ExampleTest.php" timestamp="1523363364578">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="52" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.json" timestamp="1519247095677">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+        <mark key="^" line="41" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/adamdev/database.php" timestamp="1521467653273">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="31" />
+        <mark key="." line="69" column="31" />
+        <mark key="^" line="69" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/environment/stage.json" timestamp="1513288594127">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/GuzzleFactory.php" timestamp="1525384617903">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="26" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/packages/smartshyp-serverless-tsc/index.js" timestamp="1513274618704">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Feature/Address/ValidationTest.php" timestamp="1524515378384">
+        <mark key="[" line="373" column="46" />
+        <mark key="]" line="373" column="47" />
+        <mark key="." line="373" column="47" />
+        <mark key="^" line="373" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/display_helper.php" timestamp="1515689668319">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="/fragment.php" timestamp="1528294526095">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_42.json" timestamp="1522965260480">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="^" line="0" column="4180" />
+        <mark key="." line="189" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Pb.php" timestamp="1527340944785">
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="98" column="34" />
+        <mark key="^" line="98" column="34" />
+        <mark key="." line="98" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/shipments/serverless.yml" timestamp="1513204215607">
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="24" />
+        <mark key="." line="65" column="24" />
+        <mark key="^" line="65" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/PACKAGEWebServices/CodeSamples/Void/PHP/SoapVoidClient.php" timestamp="1516643694281">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/users/webpack.config.js" timestamp="1513807891523">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/app/Models/Cluster.php" timestamp="1524003603936">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/User.php" timestamp="1526421858609">
+        <mark key="[" line="757" column="19" />
+        <mark key="]" line="758" column="25" />
+        <mark key="^" line="758" column="25" />
+        <mark key="." line="758" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/app/Console/Commands/ClusterList.php" timestamp="1524003658937">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/parse_ship.php" timestamp="1516144366333">
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Feature/Shipping/DeliveryDateEstimationTest.php" timestamp="1524512022650">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Shipments.php" timestamp="1522267925856">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="35" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/app/Models/Shipment.php" timestamp="1524176140350">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/routes.php" timestamp="1522791269959">
+        <mark key="[" line="63" column="52" />
+        <mark key="]" line="63" column="56" />
+        <mark key="^" line="63" column="56" />
+        <mark key="." line="63" column="56" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528304166771">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/node_modules/smartshyp-serverless-tsc/index.js" timestamp="1513276535764">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/csvQuery.php" timestamp="1521666321032">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/node_modules/jsonwebtoken/verify.js" timestamp="1515192968852">
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="32" />
+        <mark key="^" line="95" column="32" />
+        <mark key="." line="95" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/production/appenv.php" timestamp="1527627921798">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/users/tsconfig.json" timestamp="1513806879649">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/account/print-settings.js" timestamp="1528469282206">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/158f0dad-5cd2-4ff5-8f68-843b84cb1595/console_1.sql" timestamp="1518725828958">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/26b3c164-d2e1-493c-8df3-b6f0b23d9654/console.sql" timestamp="1522780218606">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/config/config.php" timestamp="1527624424058">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="28" />
+        <mark key="^" line="224" column="28" />
+        <mark key="." line="224" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/Refcodes.php" timestamp="1518455949508">
+        <mark key="[" line="106" column="64" />
+        <mark key="]" line="106" column="64" />
+        <mark key="." line="106" column="64" />
+        <mark key="^" line="106" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Carrieraccounts.php" timestamp="1526415813945">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="215" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/app/Console/Commands/ClusterAdd.php" timestamp="1524003624905">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/.gitignore" timestamp="1526335459516">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="30" column="6" />
+        <mark key="^" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/actionbuttons.js" timestamp="1522444256077">
+        <mark key="[" line="377" column="112" />
+        <mark key="]" line="377" column="113" />
+        <mark key="." line="377" column="113" />
+        <mark key="^" line="377" column="114" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/services/labelcreation/Logrequestpitneyshipperaccount.php" timestamp="1519143965001">
+        <mark key="[" line="164" column="57" />
+        <mark key="]" line="164" column="57" />
+        <mark key="." line="164" column="57" />
+        <mark key="^" line="164" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Dashboard.php" timestamp="1521757148401">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="27" column="50" />
+        <mark key="^" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/docker-compose.yml" timestamp="1524002724470">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/handler.ts" timestamp="1513788783510">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/Minion/.env" timestamp="1524003304077">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/docker-compose.yml" timestamp="1523301007918">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Landingpage.php" timestamp="1524845142573">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="59" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/affiliates/Lemonstand.php" timestamp="1519929169779">
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="57" />
+        <mark key="." line="50" column="57" />
+        <mark key="^" line="50" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/pitney-users.json" timestamp="1523212578916">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/tests/Feature/Address/CreateTest.php" timestamp="1524078593556">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="34" column="53" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/models/Monetaryaccount.php" timestamp="1519315254409">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/users/serverless.yml" timestamp="1513807776445">
+        <mark key="[" line="112" column="4" />
+        <mark key="]" line="112" column="10" />
+        <mark key="^" line="112" column="10" />
+        <mark key="." line="112" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/db/models/Userdata.ts" timestamp="1516307495216">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_63.json" timestamp="1526328467281">
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="5" />
+        <mark key="^" line="86" column="5" />
+        <mark key="." line="86" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/shipments-other.js" timestamp="1520620303464">
+        <mark key="[" line="6" column="112" />
+        <mark key="]" line="6" column="123" />
+        <mark key="^" line="6" column="123" />
+        <mark key="." line="6" column="123" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/views/account/index.php" timestamp="1528409034592">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1528472459369">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/swagger-ui/Dockerfile" timestamp="1515446121064">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/Downloads/should_be_paid_by_jane.csv" timestamp="1523324191544">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/libraries/jsonResponse.php" timestamp="1519849860294">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/helpers/shipment_batch.php" timestamp="1516208490377">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/aws-cognito-angular2-quickstart/docker-compose.yml" timestamp="1513016672024">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/application/controllers/Jane.php" timestamp="1528296832831">
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="65" column="23" />
+        <mark key="^" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1515089070759">
+        <mark key="[" line="1" column="100" />
+        <mark key="]" line="1" column="104" />
+        <mark key="^" line="1" column="104" />
+        <mark key="." line="1" column="104" />
+      </file>
+      <file name="$USER_HOME$/projects/aws-cognito-angular2-quickstart/.env" timestamp="1513010303168">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/ssTester/app/Models/AffiliateStore.php" timestamp="1524173283254">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="39" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/shipments/handler.js" timestamp="1513204376583">
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="6" column="82" />
+        <mark key="^" line="6" column="82" />
+        <mark key="." line="6" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartShypNodeApi/users/users/reference.d.ts" timestamp="1513806913861">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/smartshyp.v2/update.sql" timestamp="1522858257196">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="67" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1023" column="56" filename="$USER_HOME$/projects/smartshyp.v2/application/helpers/booking_helper.php" />
+      <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.json" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.json" />
+      <jump line="36" column="45" filename="$USER_HOME$/projects/smartshyp.v2/application/helpers/account_helper.php" />
+      <jump line="77" column="24" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="367" column="40" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/affiliateproducts.js" />
+      <jump line="533" column="81" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/affiliateproducts.js" />
+      <jump line="756" column="40" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/affiliateproducts.js" />
+      <jump line="757" column="20" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js/pages/affiliateproducts.js" />
+      <jump line="1" column="8" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-orders.js" />
+      <jump line="241" column="43" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="244" column="38" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="245" column="70" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="246" column="67" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="247" column="54" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="249" column="38" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="285" column="21" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-products.js" />
+      <jump line="266" column="43" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="76" column="43" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="250" column="43" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="265" column="43" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-products.js" />
+      <jump line="24" column="41" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-products.js" />
+      <jump line="28" column="51" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-products.js" />
+      <jump line="55" column="29" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-products.js" />
+      <jump line="12" column="5" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/package.json" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/package.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/package.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/gulpfile.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/gulpfile.js" />
+      <jump line="14" column="49" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="120" column="27" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="122" column="39" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="143" column="27" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="144" column="39" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="146" column="27" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="147" column="39" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="321" column="28" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="322" column="43" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="326" column="43" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/Gruntfile.js" />
+      <jump line="99" column="8" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="159" column="16" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="182" column="12" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="762" column="12" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="836" column="12" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="1146" column="16" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="1228" column="20" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="1259" column="15" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/pages/orders/orders.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="89" column="21" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="100" column="16" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="201" column="57" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="325" column="40" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="330" column="36" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="359" column="54" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="384" column="30" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="387" column="27" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="389" column="96" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="390" column="17" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="391" column="17" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="394" column="48" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="1002" column="4" filename="$USER_HOME$/projects/smartshyp.v2/application/controllers/Account.php" />
+      <jump line="1154" column="4" filename="$USER_HOME$/projects/smartshyp.v2/application/controllers/Account.php" />
+      <jump line="1298" column="12" filename="$USER_HOME$/projects/smartshyp.v2/application/controllers/Account.php" />
+      <jump line="457" column="20" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="463" column="20" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="69" column="8" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-base.js" />
+      <jump line="230" column="10" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-orders.js" />
+      <jump line="233" column="68" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-orders.js" />
+      <jump line="235" column="69" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-orders.js" />
+      <jump line="237" column="45" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-orders.js" />
+      <jump line="276" column="8" filename="$USER_HOME$/projects/smartshyp.v2/assets/src/orig/js2/ssorders/datatable-orders.js" />
+      <jump line="550" column="17" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="464" column="239" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="384" column="50" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="391" column="98" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="394" column="13" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="395" column="95" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="401" column="27" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="402" column="94" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="409" column="113" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="413" column="170" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="438" column="100" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="445" column="94" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="452" column="98" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="456" column="192" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="498" column="97" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="505" column="109" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="512" column="127" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="320" column="1" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="321" column="14" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="322" column="18" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="465" column="37" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="468" column="37" filename="$USER_HOME$/projects/smartshyp.v2/application/config/templates/subscription_failed.php" />
+      <jump line="120" column="29" filename="$USER_HOME$/projects/smartshyp.v2/application/helpers/promotion_helper.php" />
+      <jump line="26" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.json" />
+      <jump line="14" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.json" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.json" />
+      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.json" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>h</text>
+      </register>
+      <register name="-" type="4">
+        <text>h</text>
+      </register>
+      <register name="/" type="4">
+        <text>pdf</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkJCQlpZiAocGFja2xpc3Rfc3R5bGU9PSJhbHRlcm5hdGUiKSB7CgkJCQkJCQkJCXNlbGVjdGVkID0gImxhYmVsLTR4Ni1wcyI7CgkJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQkJc2VsZWN0ZWQgPSAibGFiZWwtNHg2IjsKCQkJCQkJCQl9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQlwcmludCgidGhpcyBpcyBjcmF6eSBzcGVhayIpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlwcmludCgidGhpcyBpcyBub3QgZ29pbmcgdG8gd29yayIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSRwZGYtPk91dHB1dCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXByaW50KCIiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQoInRoaXMgaXMgZ29pbmcgIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="x" type="4">
+        <text>book_failed</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>pdf</last-search>
+      <last-offset />
+      <last-pattern>pdf</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>function book</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>countSelectedRecords</entry>
+        <entry>orders</entry>
+        <entry>oSort</entry>
+        <entry>sort</entry>
+        <entry>email_container</entry>
+        <entry>we tried</entry>
+        <entry>tried</entry>
+        <entry>happy</entry>
+        <entry>text-align</entry>
+        <entry>text-secondary</entry>
+        <entry>setAmount</entry>
+        <entry>getid</entry>
+        <entry>Packing slip</entry>
+        <entry>Packing Slip</entry>
+        <entry>account</entry>
+        <entry>setpref</entry>
+        <entry>showrotate</entry>
+        <entry>printDefaultSave</entry>
+        <entry>printDefault</entry>
+        <entry>pdf</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/we tried</entry>
+        <entry>/tried</entry>
+        <entry>/happy</entry>
+        <entry>/text-align</entry>
+        <entry>/text-secondary</entry>
+        <entry>743</entry>
+        <entry>/setAmount</entry>
+        <entry>/getid</entry>
+        <entry>423</entry>
+        <entry>784</entry>
+        <entry>/Packing slip</entry>
+        <entry>/Packing Slip</entry>
+        <entry>/account/</entry>
+        <entry>/setpref</entry>
+        <entry>/showrotate</entry>
+        <entry>1592</entry>
+        <entry>/printDefaultSave</entry>
+        <entry>/printDefault</entry>
+        <entry>/pdf</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

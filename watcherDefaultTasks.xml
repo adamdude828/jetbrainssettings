@@ -1,0 +1,61 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="run   --rm -v /Users/adamholsinger/projects/SmartShypNodeApi:/var/www/html -w /var/www/html/users/users node /home/node/.npm-global/lib/node_modules/typescript/bin/tsc" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="ts" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="users" />
+      <option name="output" value="users/users/" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/local/bin/docker" />
+      <option name="scopeName" value="local" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="run   --rm -v /Users/adamholsinger/projects/SmartShypNodeApi:/var/www/html -w /var/www/html/data-access node /home/node/.npm-global/lib/node_modules/typescript/bin/tsc" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="ts" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="data-access" />
+      <option name="output" value="data-access/" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/local/bin/docker" />
+      <option name="scopeName" value="data-access" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="run   --rm -v /Users/adamholsinger/projects/SmartShypNodeApi:/var/www/html -w /var/www/html/users node /home/node/.npm-global/lib/node_modules/typescript/bin/tsc" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="ts" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="all" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/local/bin/docker" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>

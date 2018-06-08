@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="example" type="JSON" />
+      <mapping pattern="make_build" type="PHP" />
+      <mapping pattern="deploy" type="PHP" />
+      <mapping pattern="migrate" type="PHP" />
+      <mapping pattern="delete-stack" type="PHP" />
+      <mapping pattern="shipments_created" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Audit" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
